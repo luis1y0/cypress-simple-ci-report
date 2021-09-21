@@ -1,6 +1,6 @@
 describe('Google success search', () => {
     
-    it('Successfully loads Google.com', () => {
+    it('https://luis1y0.github.io/challenge-frontendmentor/index.html', () => {
         cy.visit('https://www.google.com') 
     })
 
